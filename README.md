@@ -17,4 +17,5 @@ INSTALLATION
     - sudo pip3 freeze == local > requirements.txt
     
 3. Create Procfile
+    - echo web: python run.py > Procfile
  
